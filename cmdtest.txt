@@ -1,0 +1,5 @@
+git branch
+git checkout <branchname>
+git add filename
+git commit -m "comments"
+git push --all
